@@ -1,8 +1,9 @@
 #Cparty
 
-![](/figures/1.png)
 
 
+
+![](./img/1.png)
 
 To start I connect to the server to see what it asks me :
 
