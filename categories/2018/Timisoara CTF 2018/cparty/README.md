@@ -1,9 +1,15 @@
 # Cparty
 
+![](./img/1.png#center)
 
 
 
-![](./img/1.png){: .center-image }
+
+
+
+
+
+
 
 
 To start I connect to the server to see what it asks me :
