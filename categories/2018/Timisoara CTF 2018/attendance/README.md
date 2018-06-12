@@ -30,11 +30,11 @@ As you can see, we can leave a message with the principal, so we’re gonna try 
 
 The vulnerability will therefore be at the moment when we leave the message to the principal. I will now use the ret2libc vulnerability. To use this vulnerability we need:
 
-->Padding + p system + p exit + p ‘/bin/sh’<-
+**Padding + p system + p exit + p ‘/bin/sh’**
 
 after a while, I arrived at 41 in padding, to find the system and exit address I have to run the binary with gdb, put a breakpoint on the main. Then using these commands I get the addresses:
-->p system<-
-->p exit<-
+**p system**
+**p exit**
 
 ![](./img/8.png#center)
 
