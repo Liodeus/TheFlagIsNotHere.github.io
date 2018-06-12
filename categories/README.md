@@ -1,1 +1,1 @@
-[a workaround link](/categories/2018/Timisoara CTF 2018/cparty/)
+[2018](/categories/2018/)
