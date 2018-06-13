@@ -1,5 +1,7 @@
 # Contact us !
 
+---
+
 If you have any question, request, or suggestion, don’t hesitate ! You have multiple way to contact us.
 
 ---
