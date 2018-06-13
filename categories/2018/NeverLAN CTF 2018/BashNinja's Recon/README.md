@@ -40,4 +40,4 @@ After some reseach, I found that it was RailFence and search for an online decry
 
 ![](./img/6.png#center)
 
-**The flag : flag{you-should-start-a-club-at-your-school…I-did}**
+> The flag : flag{you-should-start-a-club-at-your-school…I-did}

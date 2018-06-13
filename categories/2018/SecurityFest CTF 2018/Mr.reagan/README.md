@@ -43,4 +43,4 @@ Try to decode this base64 :
 
 ![](./img/4.png#center)
 
-Flag : sctf{3l3ctr0m4gn3t1c_pul53_w4s_f4k3}
+> Flag : sctf{3l3ctr0m4gn3t1c_pul53_w4s_f4k3}

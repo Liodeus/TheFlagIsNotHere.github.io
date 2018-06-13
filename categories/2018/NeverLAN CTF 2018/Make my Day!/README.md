@@ -14,4 +14,4 @@ And yes we can have the flag at 33:34 :
 
 ![](./img/3.png#center)
 
-**The flag : flag{H0p3_y0u_R3g!5t3r}**
+> The flag : flag{H0p3_y0u_R3g!5t3r}

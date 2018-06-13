@@ -8,6 +8,6 @@ For this challenge we have to find the DEFCON village where s7a73farm DJ’d. So
 
 We found a village name which is : Packet Hacking Village
 
-	*Live Set : Packet Hacking Village | Wall Of Sheep | DEFCON22*
+	Live Set : Packet Hacking Village | Wall Of Sheep | DEFCON22
 
-**The flag: flag{packethackingvillage}**
+> The flag: flag{packethackingvillage}

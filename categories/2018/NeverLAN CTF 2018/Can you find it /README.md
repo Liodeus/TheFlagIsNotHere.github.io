@@ -16,4 +16,4 @@ So after that just search smbv1 cve :
 
 Google tells us that smbv1 is the CVE :CVE-2017-0144.
 
-**The flag: CVE-2017-0144**
+> The flag: CVE-2017-0144 

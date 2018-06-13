@@ -19,4 +19,4 @@ As you can see the location is /admin.php but we are redirect on /unavailable.ph
 
 ![](./img/5.png#center)
 
-**The Flag : pctf{y0u=Sh0Uldn’1/h4v3*s33n,1his. : )}**
+> The Flag : pctf{y0u=Sh0Uldn’1/h4v3*s33n,1his. : )}

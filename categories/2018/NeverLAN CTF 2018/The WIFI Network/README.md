@@ -15,4 +15,4 @@ That’s it you have the flag !
 
 ![](./img/2.png#center)
 
-> **The Flag: obiwan17**
+> The Flag: obiwan17
