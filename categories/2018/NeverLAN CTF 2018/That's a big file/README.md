@@ -8,7 +8,7 @@ So we have a big file with compressed data. Lets see what’s inside. It looks l
 
 So let’s try to decode it :
 
-**cat ThatsBix.txt | base64 -d**
+> cat ThatsBix.txt | base64 -d
 
 Huum it’s still base64 but with less data. It looks like this is a file with multiple layers of base64.
 
