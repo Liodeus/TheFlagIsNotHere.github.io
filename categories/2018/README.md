@@ -1,4 +1,4 @@
-Alt-Capture The Flag :
+Capture The Flag :
 ======
 
 # [NeverLAN CTF 2018](/categories/2018/NeverLAN CTF 2018/)
