@@ -2,7 +2,7 @@
 
 ![](./img/1.png#center)
 
-![](./img/2.jpg#center)
+![](./img/2.png#center)
 
 
 Easy task, for this one :
