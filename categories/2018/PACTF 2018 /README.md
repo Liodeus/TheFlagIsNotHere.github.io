@@ -6,12 +6,12 @@
 * [PACTF 2018 - Credit Card Leak ](/categories/2018/PACTF 2018 /Credit Card Leak/)
 * [PACTF 2018 - Open Sourcery 2018 ](/categories/2018/PACTF 2018 /Open Sourcery 2018/)
 * [PACTF 2018 - Bad Melody ](/categories/2018/PACTF 2018 /Bad Melody/)
-* [PACTF 2018 - Who Said It ? ](/categories/2018/PACTF 2018 /Who Said it/)
+* [PACTF 2018 - Who Said It ? ](/categories/2018/PACTF 2018 /Who Said It/)
 * [PACTF 2018 - Go Git It ](/categories/2018/PACTF 2018 /Go Git It/)
 * [PACTF 2018 - Let Me In ](/categories/2018/PACTF 2018 /Let Me In/)
 * [PACTF 2018 - Caesar Cipher ? ](/categories/2018/PACTF 2018 /Caesar Cipher/)
 * [PACTF 2018 - Straight From The Emperor ](/categories/2018/PACTF 2018 /Straight From The Emperor/)
-* [PACTF 2018 - A Picture is a Thousand Words ](/categories/2018/PACTF 2018 /Picture is a Thousand Words/)
+* [PACTF 2018 - A Picture is a Thousand Words ](/categories/2018/PACTF 2018 /A Picture is a Thousand Words/)
 
 
 ## Round 2 :
