@@ -1,12 +1,19 @@
 # Flag Generator 
 
+------
+
 ![](./img/1.png#center)
 
 ## Introduction :
+------
 
 This tool can be very useful to have your final flag formatted and copied directly into your clipboard. 
 
+
+
 ## Usage :
+
+------
 
 ### Change the value for the CTF name :
 
@@ -21,4 +28,4 @@ The second option allows you to have your final flag copied directly into your c
 ![](./img/3.png#center)
 
 
-#### [Link](https://github.com/TheFlagIsNotHere/Tools)
+# [Link](https://github.com/TheFlagIsNotHere/Tools)
