@@ -6,4 +6,4 @@
 * [SecurityFest CTF 2018](/categories/SecurityFest CTF 2018/)
 * [Sunshine CTF 2018](/categories/Sunshine CTF 2018/)
 * [Timisoara CTF 2018](/categories/Timisoara CTF 2018/)
-* [ISITDTU CTF 2018 Quals](/categories/ISITDTU CTF 2018/)
+* [ISITDTU CTF 2018 Quals](/categories/ISITDTU CTF 2018 /)
