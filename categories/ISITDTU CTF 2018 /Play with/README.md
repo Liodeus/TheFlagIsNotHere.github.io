@@ -2,7 +2,7 @@
 
 ![](./img/1.png#center)
 
-First,Let’s take a look at the file :
+First, let’s take a look at the file :
 
 ![](./img/2.png#center)
 
@@ -12,15 +12,15 @@ My first idea was to use xortool :
 xortool -b basic_crypto
 ```
 
-We have a new picture : 
+We get a new picture : 
 
 ![](./img/3.png#center)
 
-On the picture is write "too low". Maybe the length of the picture is modified. So I use tweakpng to resize the picture :
+As we can see on the picture, there is a hint "too low". Maybe the length of the picture is modified. So I use tweakpng to resize the picture :
 
 ![](./img/4.png#center)
 
-And we have a new picture ! I open the picture with gimp and use the miror's effect :
+And we obtained another picture ! I open it with gimp and use the miror's effect :
 
 ![](./img/5.png#center)
 
